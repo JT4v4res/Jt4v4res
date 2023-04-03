@@ -38,8 +38,9 @@
 
 <div>
   
-  <a href="https://www.linkedin.com/in/rafael-em%C3%ADlio-lima-alves-aa9a2320b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=light" target="_blank"></a> 
-  <a href = "mailto:rela@ic.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-tavares-0b78251bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=light" target="_blank"></a> 
+  <a href = "mailto:joaotavarestavares@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jvst@ic.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  ![Snake animation](https://github.com/sJT4v4res/JT4v4res/blob/output/github-contribution-grid-snake.svg)
 </div>
