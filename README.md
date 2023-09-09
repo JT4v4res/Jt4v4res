@@ -1,7 +1,7 @@
 ### Hi there, my name is João Tavares 👋
 
 - 🔭 I’m currently working on personal and academic projects.
-- 🌱 I’m currently learning Fullstack development and Data Science & AI
+- 🌱 I’m currently learning Data Science & AI
 - 📫 How to reach me: by my emails joaotavarestavares@hotmail.com, jvst@ic.ufal.br
 - 😄 Pronouns: Ele/Dele/He/Him
 
