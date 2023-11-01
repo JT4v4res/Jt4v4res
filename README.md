@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/JT4v4res">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JT4v4res&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JT4v4res&layout=compact&langs_count=12&theme=dracula&count_private=true&count_weight=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JT4v4res&layout=compact&langs_count=12&theme=dracula&count_private=true&count_weight=1&size_weight=0"/>
 </div>
 
  ##
