@@ -1,4 +1,12 @@
 ### Hi there, my name is João Tavares 👋
+<p align="left">
+  I'm a computer science student, Back-end developer, Data Scientist and Machine Learning Engineer. 
+  
+  Currently I'm improving my skills in Natural Language Processing by udemy courses and on internet articles.
+  
+  During my undergraduate studies, I mediated my learning at the university and integrated my experiences with my studies in Machine Learning and Cloud technologies, these being my areas of greatest interest and   involvement. In recent months, I have been developing some small projects for undergraduate courses and for practical application of Machine Learning techniques, with a focus on their use for Natural Language 
+  Processing.
+</p>
 
 - 🔭 I’m currently working on personal and academic projects.
 - 🌱 I’m currently learning Data Science & AI, upgrading my skills on Natural Language Processing
@@ -16,10 +24,16 @@
 
  ## 🧠 Tecnologias
   
-<p align="center">
+<p align="center" style="background-color: white;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,dotnet,git,js,ts,mysql,nestjs,nodejs,postgres,py,rabbitmq,docker" />
   </a>
+  <img height="48em" src="https://raw.githubusercontent.com/JT4v4res/JT4v4res/0010253238024bcd9106653f41baf049178c4781/keras.svg" />
+  <img height="48em" src="https://raw.githubusercontent.com/JT4v4res/JT4v4res/0010253238024bcd9106653f41baf049178c4781/matplotlib.svg" />
+  <img height="48em" src="https://github.com/JT4v4res/JT4v4res/blob/main/numpy.svg" />
+  <img height="48em" src="https://github.com/JT4v4res/JT4v4res/blob/main/tensorflow-tf.svg" />
+  <img height="48em" src="https://github.com/JT4v4res/JT4v4res/blob/main/favicon_white.ico" />
+  <img height="48em" src="https://github.com/JT4v4res/JT4v4res/blob/main/scikit-learn.svg" />
 </p>
 
 ##
