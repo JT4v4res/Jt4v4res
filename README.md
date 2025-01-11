@@ -1,11 +1,17 @@
 ### Hi there, my name is João Tavares 👋
 <p align="left">
-  I'm a computer science student, Back-end developer, Data Scientist and Machine Learning Engineer. 
-  
-  Currently I'm improving my skills in Natural Language Processing by udemy courses and on internet articles.
-  
-  During my undergraduate studies, I mediated my learning at the university and integrated my experiences with my studies in Machine Learning and Cloud technologies, these being my areas of greatest interest and   involvement. In recent months, I have been developing some small projects for undergraduate courses and for practical application of Machine Learning techniques, with a focus on their use for Natural Language 
-  Processing.
+  I'm a Computer Scientist, Data Scientist, and aspiring Machine Learning Engineer with 3 years of professional experience.
+
+Currently, I’m expanding my expertise in Natural Language Processing (NLP) and Data Engineering by working on real-world projects and exploring cutting-edge techniques through online courses and technical resources.
+
+Throughout my academic and professional journey, I’ve applied my knowledge to Machine Learning, Cloud Computing, and Big Data:
+
+As a scientific researcher, I conducted a study on over 40 neural network architectures for text correction, integrating Deep Learning with NLP.
+As a Back-end Developer, I worked with the C#/.NET/ASP.NET stack, building scalable, robust systems.
+Recently, I’ve been involved in Data Engineering projects, working on pipelines and integration to optimize data processing workflows.
+In addition to developing small projects to apply and refine my skills, I’m passionate about creating innovative, data-driven solutions and contributing to the growing fields of Artificial Intelligence and Big Data.
+
+Feel free to explore my repositories to see some of the projects I’ve been working on! 🚀
 </p>
 
 - 🔭 I’m currently working on personal and academic projects.
