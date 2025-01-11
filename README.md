@@ -6,9 +6,10 @@ Currently, I’m expanding my expertise in Natural Language Processing (NLP) and
 
 Throughout my academic and professional journey, I’ve applied my knowledge to Machine Learning, Cloud Computing, and Big Data:
 
-As a scientific researcher, I conducted a study on over 40 neural network architectures for text correction, integrating Deep Learning with NLP.
-As a Back-end Developer, I worked with the C#/.NET/ASP.NET stack, building scalable, robust systems.
-Recently, I’ve been involved in Data Engineering projects, working on pipelines and integration to optimize data processing workflows.
+- As a scientific researcher, I conducted a study on over 40 neural network architectures for text correction, integrating Deep Learning with NLP.
+- As a Back-end Developer, I worked with the C#/.NET/ASP.NET stack, building scalable, robust systems.
+- Recently, I’ve been involved in Data Engineering projects, working on pipelines and integration to optimize data processing workflows.
+
 In addition to developing small projects to apply and refine my skills, I’m passionate about creating innovative, data-driven solutions and contributing to the growing fields of Artificial Intelligence and Big Data.
 
 Feel free to explore my repositories to see some of the projects I’ve been working on! 🚀
