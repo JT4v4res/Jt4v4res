@@ -68,6 +68,12 @@ Feel free to explore my repositories to see some of the projects I’ve been wor
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats-phi-roan-82.vercel.app/api/wakatime?username=JT4v4res&layout=compact&langs_count=20"
+  \>
+</div>
 <!--
 **JT4v4res/Jt4v4res** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
