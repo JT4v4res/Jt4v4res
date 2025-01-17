@@ -23,8 +23,8 @@ Feel free to explore my repositories to see some of the projects I’ve been wor
 ##
 
 <div align="center">
-  <img height="222em" src="https://github-readme-stats.vercel.app/api?username=JT4v4res&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage"/>
-  <img height="222em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JT4v4res&layout=compact&langs_count=12&theme=dracula&count_private=true&count_weight=1&size_weight=0.01"/>
+  <img height="222em" src="https://github-readme-stats-phi-roan-82.vercel.app/api?username=JT4v4res&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage"/>
+  <img height="222em" src="https://github-readme-stats-phi-roan-82.vercel.app/api/top-langs/?username=JT4v4res&layout=compact&langs_count=12&theme=dracula&count_private=true&count_weight=1&size_weight=0.01"/>
     <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JT4v4res&theme=dark&hide_border=false"/>
 </div>
