@@ -41,6 +41,10 @@ Feel free to explore my repositories to see some of the projects I’ve been wor
   <img height="48em" src="https://github.com/JT4v4res/JT4v4res/blob/main/tensorflow-tf.svg" />
   <img height="48em" src="https://github.com/JT4v4res/JT4v4res/blob/main/favicon_white.ico" />
   <img height="48em" src="https://github.com/JT4v4res/JT4v4res/blob/main/scikit-learn.svg" />
+  <img height="48em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" />
+  <img height="48em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" />
+  <img height="48em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" />
+  <img height="48em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" />
 </p>
 
 ##
