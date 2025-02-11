@@ -76,7 +76,7 @@ Feel free to explore my repositories to see some of the projects I’ve been wor
 
 <div align="center">
   <img
-    src="https://github-readme-stats-phi-roan-82.vercel.app/api/wakatime?username=JT4v4res&layout=compact&langs_count=20"
+    src="https://github-readme-stats-phi-roan-82.vercel.app/api/wakatime?username=JT4v4res&layout=compact&langs_count=5"
   \>
 </div>
 <!--
